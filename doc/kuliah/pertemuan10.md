@@ -184,6 +184,9 @@ Copy code dan edit seperi berikut:
 ~~~	
 
 Hasil :
+<p align ="center">
+<img src="../../img/overlay_tentri.PNG" width="600px">
+</p>
 
 ## Kesimpulan
 Jadi, Openlayers merupakan javascript murni yang digunakan untuk menempatkan peta yang dapat dibuka di web browser. Dan Marker adalah cara yang digunakan agar kita dapat menegtahui titiki tempat atau wilayah di permukaan bumi.
