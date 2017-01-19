@@ -1,9 +1,9 @@
 # OVERLAY
 ## Latar Belakang
 
-1.	Apa itu Open Layer
-2.	Apa itu Marker?
-3.	Cara menampilkan marker dengan menggunakan open layer?
+1. Apa itu Open Layer
+2. Apa itu Marker?
+3. Cara menampilkan marker dengan menggunakan open layer?
 
 ## Isi
 Open Layer adalah sebuah javascript murni yang digunakan untuk menampilkan data peta di web/browser, tanpsa server side dependencies. Open Layer mengimplementasikan javascript API untuk membangun rich web-based geographic application yang mirip dengan Google Maps dan MSN Virtual Earth APIS.
@@ -11,9 +11,10 @@ Marker adalah Suatu tanda sebuah wilayah atau tempat di permukaan bumi sehinggan
 
 ## Cara mebuat marker : 
 
--	Buka web :http://openlayers.org/en/latest/examples/overlay.html?q=overlay
+- Buka web :http://openlayers.org/en/latest/examples/overlay.html?q=overlay
 
 Copy code dan edit seperi berikut:
+~~~
 	<!DOCTYPE html>
 	<html>
 	  <head>
@@ -180,7 +181,7 @@ Copy code dan edit seperi berikut:
 	    </script>
 	  </body>
 	</html>
-	
+~~~	
 
 Hasil :
 
